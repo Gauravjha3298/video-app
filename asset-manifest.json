@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://github.com/Gauravjha3298/video-app/static/css/main.ecd540bc.css",
-    "main.js": "https://github.com/Gauravjha3298/video-app/static/js/main.06d5832e.js",
-    "static/js/787.cda612ba.chunk.js": "https://github.com/Gauravjha3298/video-app/static/js/787.cda612ba.chunk.js",
-    "index.html": "https://github.com/Gauravjha3298/video-app/index.html",
-    "main.ecd540bc.css.map": "https://github.com/Gauravjha3298/video-app/static/css/main.ecd540bc.css.map",
-    "main.06d5832e.js.map": "https://github.com/Gauravjha3298/video-app/static/js/main.06d5832e.js.map",
-    "787.cda612ba.chunk.js.map": "https://github.com/Gauravjha3298/video-app/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "https://gauravjha3298.github.io/video-app/static/css/main.ecd540bc.css",
+    "main.js": "https://gauravjha3298.github.io/video-app/static/js/main.14338b37.js",
+    "static/js/787.cda612ba.chunk.js": "https://gauravjha3298.github.io/video-app/static/js/787.cda612ba.chunk.js",
+    "index.html": "https://gauravjha3298.github.io/video-app/index.html",
+    "main.ecd540bc.css.map": "https://gauravjha3298.github.io/video-app/static/css/main.ecd540bc.css.map",
+    "main.14338b37.js.map": "https://gauravjha3298.github.io/video-app/static/js/main.14338b37.js.map",
+    "787.cda612ba.chunk.js.map": "https://gauravjha3298.github.io/video-app/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecd540bc.css",
-    "static/js/main.06d5832e.js"
+    "static/js/main.14338b37.js"
   ]
 }
